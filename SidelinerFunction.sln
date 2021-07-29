@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SidelinerFunction", "SidelinerFunction\SidelinerFunction.csproj", "{AB2ED6D3-8836-4B8D-9271-08C4EFE8F11B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB2ED6D3-8836-4B8D-9271-08C4EFE8F11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2ED6D3-8836-4B8D-9271-08C4EFE8F11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2ED6D3-8836-4B8D-9271-08C4EFE8F11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2ED6D3-8836-4B8D-9271-08C4EFE8F11B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9230549-E1BB-467C-8B54-2DE2F927C8F2}
+	EndGlobalSection
+EndGlobal
